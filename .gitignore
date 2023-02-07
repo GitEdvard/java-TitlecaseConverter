@@ -1,2 +1,6 @@
 *.class
+*.jar
 pluralsight/
+artifacts/
+META-INF/
+out/
