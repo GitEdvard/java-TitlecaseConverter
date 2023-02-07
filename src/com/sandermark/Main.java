@@ -1,5 +1,5 @@
 // jar cvmf TC-MANIFEST.MF TitlecaseConverter.jar
-package main.java.com.sandermark;
+package com.sandermark;
 
 import javax.swing.*;
 import java.awt.*;
